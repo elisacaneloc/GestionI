@@ -1,0 +1,9 @@
+idVuelo	destino	tiempoVuelo	lunes	martes	miercoles	jueves	viernes	sabado	domingo	tipoA	tipoB
+1	Arica	4	1	1	1	1	3	3	2	1	0
+2	Iquique	3	3	1	1	2	3	3	3	1	0
+3	Antofagasta	2	2	2	2	2	3	3	2	1	0
+4	LaSerena	1	2	1	1	1	3	3	2	1	0
+5	Concepcion	1	1	1	1	1	2	2	2	0	1
+6	Temuco	2	2	1	1	1	2	2	2	0	1
+7	PuertoMontt	3	2	1	1	1	2	1	1	0	1
+8	Balmaceda	4	2	0	0	0	2	2	1	0	1
